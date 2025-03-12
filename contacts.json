@@ -1,19 +1,19 @@
 {
   "contacts": [
       {
-			"name": "Eric",
-			"age": 33,
-			"email": "me@imnotclever.com"
+			"name": "example",
+			"age": 99,
+			"email": "example@imnotclever.com"
 	  }
       {
-			"name": "Eric",
-			"age": 33,
-			"email": "me@imnotclever.com"
+			"name": "example",
+			"age": 99,
+			"email": "example@imnotclever.com"
 	  }
       {
-			"name": "Eric",
-			"age": 33,
-			"email": "me@imnotclever.com"
+			"name": "example",
+			"age": 99,
+			"email": "example@imnotclever.com"
 	  }
     ]
 }
